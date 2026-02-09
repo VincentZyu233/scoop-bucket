@@ -9,7 +9,7 @@
             "hash": "77545AA346081A10F22CFF936DC41ED77F7C589BEC69E1C9DA489665130AE895"
         }
     },
-    "bin": [["winload-windows-x86_64-v0.1.0.exe", "winload"]],
+    "bin": [["winload-windows-x86_64-v0.1.0.exe", "win-nload"]],
     "checkver": {
         "github": "https://github.com/VincentZyu233/winload"
     },
