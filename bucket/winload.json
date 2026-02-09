@@ -1,0 +1,23 @@
+{
+    "version": "0.1.0",
+    "description": "Network Load Monitor - nload for Windows/Linux/macOS",
+    "homepage": "https://github.com/VincentZyu233/winload",
+    "license": "MIT",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/VincentZyuApps/winload/releases/download/v0.1.0/winload-windows-x86_64-v0.1.0.exe",
+            "hash": "77545AA346081A10F22CFF936DC41ED77F7C589BEC69E1C9DA489665130AE895"
+        }
+    },
+    "bin": [["winload-windows-x86_64-v0.1.0.exe", "winload"]],
+    "checkver": {
+        "github": "https://github.com/VincentZyu233/winload"
+    },
+    "autoupdate": {
+        "architecture": {
+            "64bit": {
+                "url": "https://github.com/VincentZyu233/winload/releases/download/v$version/winload-windows-x86_64-v$version.exe"
+            }
+        }
+    }
+}
