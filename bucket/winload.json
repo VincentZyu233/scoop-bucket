@@ -7,12 +7,12 @@
         "64bit": {
             "url": "https://github.com/VincentZyuApps/winload/releases/download/v0.1.5-beta.2/winload-windows-x86_64-v0.1.5-beta.2.exe",
             "hash": "2ef385016668340f9ea89cad02a9b457f726630b2ef331017760003532e60011",
-            "bin": [["winload-windows-x86_64-v0.1.5-beta.2.exe", "winload"]]
+            "bin": [["winload-windows-x86_64-v0.1.5-beta.2.exe", "win-nload"]]
         },
         "arm64": {
             "url": "https://github.com/VincentZyuApps/winload/releases/download/v0.1.5-beta.2/winload-windows-aarch64-v0.1.5-beta.2.exe",
             "hash": "52470d23b1e405701ee3f7dcc20c9cf6cee01e3a1dd03555c6ac84f97dc0e81e",
-            "bin": [["winload-windows-aarch64-v0.1.5-beta.2.exe", "winload"]]
+            "bin": [["winload-windows-aarch64-v0.1.5-beta.2.exe", "win-nload"]]
         }
     },
     "checkver": {
