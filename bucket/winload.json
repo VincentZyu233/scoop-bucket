@@ -1,18 +1,18 @@
 {
-    "version": "0.1.7-beta.3",
+    "version": "0.1.7-beta.4",
     "description": "Network Load Monitor - nload for Windows/Linux/macOS",
     "homepage": "https://github.com/VincentZyuApps/winload",
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/VincentZyuApps/winload/releases/download/v0.1.7-beta.3/winload-windows-x86_64-v0.1.7-beta.3.exe",
-            "hash": "7af72f6c8c60b7bbf4c047f28c45ecbcb9ccbf4ab14e6c556b3b838c09657979",
-            "bin": [["winload-windows-x86_64-v0.1.7-beta.3.exe", "win-nload"]]
+            "url": "https://github.com/VincentZyuApps/winload/releases/download/v0.1.7-beta.4/winload-windows-x86_64-v0.1.7-beta.4.exe",
+            "hash": "a23a594006a481275cb24b9a3e182f728a6372a0aa0bb3573d667dd65e7ab0b1",
+            "bin": [["winload-windows-x86_64-v0.1.7-beta.4.exe", "win-nload"]]
         },
         "arm64": {
-            "url": "https://github.com/VincentZyuApps/winload/releases/download/v0.1.7-beta.3/winload-windows-aarch64-v0.1.7-beta.3.exe",
-            "hash": "3312a9972dd7459d650afa7b05eca2174d580e2070ea2eafb97f4c4968829f3d",
-            "bin": [["winload-windows-aarch64-v0.1.7-beta.3.exe", "win-nload"]]
+            "url": "https://github.com/VincentZyuApps/winload/releases/download/v0.1.7-beta.4/winload-windows-aarch64-v0.1.7-beta.4.exe",
+            "hash": "73c44e22f6856fbd55bece5efe20d76ac376d7a74c54d66a615b3109e5ce09d8",
+            "bin": [["winload-windows-aarch64-v0.1.7-beta.4.exe", "win-nload"]]
         }
     },
     "checkver": {
