@@ -6,12 +6,12 @@
     "architecture": {
         "64bit": {
             "url": "https://github.com/VincentZyuApps/winload/releases/download/v0.1.7-rc.5/winload-windows-x86_64-v0.1.7-rc.5.exe",
-            "hash": "ba781b43f16882992adcf9b9d4a09886b83889661131d6111290eac55ef6983e",
+            "hash": "25f7e39623bc099bc18c4def433aeca2b12232f3ad572ca6c1a0d187af0030de",
             "bin": [["winload-windows-x86_64-v0.1.7-rc.5.exe", "win-nload"]]
         },
         "arm64": {
             "url": "https://github.com/VincentZyuApps/winload/releases/download/v0.1.7-rc.5/winload-windows-aarch64-v0.1.7-rc.5.exe",
-            "hash": "4972a90f6f9510c0df2882094cbf7c4ae8e830d01a44bc356f338ccae38ac6aa",
+            "hash": "7bb573805e502100ac91989f21931fc47a984265b325440bce219f0a411ede85",
             "bin": [["winload-windows-aarch64-v0.1.7-rc.5.exe", "win-nload"]]
         }
     },
