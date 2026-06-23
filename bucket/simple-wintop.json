@@ -1,18 +1,18 @@
 {
-    "version": "0.1.0",
+    "version": "0.2.1",
     "description": "htop-inspired Windows system monitor - CPU bars, Memory & Swap, Tasks, Uptime in a colorful TUI",
     "homepage": "https://github.com/VincentZyuApps/simple-wintop",
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/VincentZyuApps/simple-wintop/releases/download/v0.1.0/simple-wintop-x86_64-v0.1.0.exe",
-            "hash": "dce0124452d66f0d5e6446c344f2f49668ae40e0715073c3110e93ac8d463d27",
-            "bin": [["simple-wintop-x86_64-v0.1.0.exe", "simple-wintop"]]
+            "url": "https://github.com/VincentZyuApps/simple-wintop/releases/download/v0.2.1/simple-wintop-x86_64-v0.2.1.exe",
+            "hash": "c4f4be8edc6f0897922bf00af69c692a3ff7771481beed5e2f4b0edbd4d6c99b",
+            "bin": [["simple-wintop-x86_64-v0.2.1.exe", "simple-wintop"]]
         },
         "arm64": {
-            "url": "https://github.com/VincentZyuApps/simple-wintop/releases/download/v0.1.0/simple-wintop-arm64-v0.1.0.exe",
-            "hash": "49df5b52db486d3d23477b20bce896c5d15359b25f76f2b00ee6761f0808c220",
-            "bin": [["simple-wintop-arm64-v0.1.0.exe", "simple-wintop"]]
+            "url": "https://github.com/VincentZyuApps/simple-wintop/releases/download/v0.2.1/simple-wintop-arm64-v0.2.1.exe",
+            "hash": "eb4a9e06a077c45088ffa86e2f95338c061b269dc5397e0ab13e22b7486903d6",
+            "bin": [["simple-wintop-arm64-v0.2.1.exe", "simple-wintop"]]
         }
     },
     "checkver": {
