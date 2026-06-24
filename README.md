@@ -1,4 +1,4 @@
-## 🍨 Scoop bucket page
+## 🍨 Scoop Bucket Page
 
 https://scoop.sh/#/apps?q=%22https%3A%2F%2Fgithub.com%2FVincentZyuApps%2Fscoop-bucket%22&o=false
 
